@@ -1,0 +1,63 @@
+body{
+    max-width: 60%;
+    margin: auto;
+    text-align: center;
+    background-color: antiquewhite;
+}
+.container{
+    max-width: 80%;
+    text-align: center;
+    margin: auto;
+    padding: 1rem;
+}
+p{
+    max-width: 500rem;
+    margin: 3rem auto;
+    text-align:center
+
+}
+.display-error,input,label{
+    display: block;
+    margin: 1rem auto;
+    text-align: center;
+}
+
+
+
+.mid{
+    display: block;
+    text-align: center;
+}
+footer{
+    max-width: 85%;
+    margin: auto;
+}
+.no{
+    text-align: center;
+    font-size: 20px;
+}
+.inline{
+    display: inline;
+    margin: 1rem;   
+}
+.link{
+    
+    text-decoration: none;
+}
+.linker{
+    padding: 0.5rem;
+    border-radius: 1rem;
+    background-color: var(--primary-color);
+    color: var(--text-color);
+    margin: 2rem auto;
+    max-width: 100px;
+}
+.links{
+    text-decoration: none;
+}
+label {
+    font-size: 25px;
+}
+.links{
+    text-decoration: none;
+}
